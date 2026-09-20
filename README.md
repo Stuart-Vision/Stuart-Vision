@@ -10,7 +10,7 @@ TypeScript · React · Next.js · Node.js · MongoDB · Laravel
 
 <table>
   <tr>
-    <td width="33%"><a href="https://github.com/Stuart-Vision/dineflow-pos"><img height="160" src="https://raw.githubusercontent.com/Stuart-Vision/dineflow-pos/main/docs/screenshots/03-dashboard.png" alt="DineFlow restaurant management dashboard" /></a></td>
+    <td width="33%"><a href="https://github.com/Stuart-Vision/dineflow-pos"><img height="160" src="https://raw.githubusercontent.com/Stuart-Vision/dineflow-pos/main/docs/screenshots/04-point-of-sale.png" alt="DineFlow restaurant point-of-sale workspace" /></a></td>
     <td width="33%"><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><img height="160" src="https://raw.githubusercontent.com/Stuart-Vision/Multivendor-ecommerce/main/docs/screenshots/home.png" alt="Velora marketplace storefront" /></a></td>
     <td width="33%"><a href="https://github.com/Stuart-Vision/MOTIONA"><img height="160" src="https://raw.githubusercontent.com/Stuart-Vision/MOTIONA/main/docs/screenshots/desktop-home.png" alt="MOTIONA art discovery landing page" /></a></td>
   </tr>
