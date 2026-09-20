@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Stuart, Software Engineer</title>
+  <desc id="description">A minimal dark banner with teal and orange geometric accents.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="#0d1117"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <rect x="54" y="52" width="8" height="156" rx="4" fill="url(#accent)"/>
+  <circle cx="1078" cy="62" r="9" fill="#ff5a2a"/>
+  <circle cx="1122" cy="104" r="44" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-opacity=".8"/>
+  <path d="M1030 190h112M1086 134v112" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="96" y="122" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="2">STUART</text>
+  <text x="99" y="164" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500" letter-spacing="5">SOFTWARE ENGINEER</text>
+  <text x="99" y="201" fill="#2dd4bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="1.5">FULL-STACK WEB APPLICATIONS</text>
+</svg>
+
