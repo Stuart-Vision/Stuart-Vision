@@ -1,39 +1,46 @@
-# Hi, I'm Stuart
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Stuart â€” Software Engineer building full-stack web applications" width="100%" />
+</p>
 
-Software Engineer · Full-stack web development
+<p align="center">
+  <a href="https://www.linkedin.com/in/shanthosh-sai/">LinkedIn</a> Â·
+  <a href="https://github.com/Stuart-Vision?tab=repositories">All repositories</a>
+</p>
 
-I build web applications for commerce, restaurant operations, and interactive interfaces.
+I build full-stack applications for commerce, restaurant operations, and interactive digital experiences. My work focuses on clear business workflows, practical data models, and interfaces that are straightforward to use.
 
-TypeScript · React · Next.js · Node.js · MongoDB · Laravel
+**Core stack:** TypeScript Â· React Â· Next.js Â· Node.js Â· MongoDB Â· Laravel
 
 ## Selected work
 
 <table>
   <tr>
     <td width="33%"><a href="https://github.com/Stuart-Vision/dineflow-pos"><img height="160" src="https://raw.githubusercontent.com/Stuart-Vision/dineflow-pos/main/docs/screenshots/04-point-of-sale.png" alt="DineFlow restaurant point-of-sale workspace" /></a></td>
-    <td width="33%"><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><img height="160" src="https://raw.githubusercontent.com/Stuart-Vision/Multivendor-ecommerce/main/docs/screenshots/home.png" alt="Velora marketplace storefront" /></a></td>
-    <td width="33%"><a href="https://github.com/Stuart-Vision/MOTIONA"><img height="160" src="https://raw.githubusercontent.com/Stuart-Vision/MOTIONA/main/docs/screenshots/desktop-home.png" alt="MOTIONA art discovery landing page" /></a></td>
+    <td width="33%"><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><img src="https://raw.githubusercontent.com/Stuart-Vision/Multivendor-ecommerce/main/docs/screenshots/home.png" alt="Velora marketplace storefront" /></a></td>
+    <td width="33%"><a href="https://github.com/Stuart-Vision/MOTIONA"><img src="https://raw.githubusercontent.com/Stuart-Vision/MOTIONA/main/docs/screenshots/desktop-home.png" alt="MOTIONA art discovery landing page" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Stuart-Vision/dineflow-pos"><strong>DineFlow POS</strong></a><br />Restaurant operations and ordering.</td>
-    <td><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><strong>Velora</strong></a><br />Multi-vendor commerce and order workflows.</td>
-    <td><a href="https://github.com/Stuart-Vision/MOTIONA"><strong>MOTIONA</strong></a><br />Art discovery with responsive motion.</td>
+    <td valign="top"><a href="https://github.com/Stuart-Vision/dineflow-pos"><strong>DineFlow POS</strong></a><br />Restaurant ordering, kitchen workflows, inventory, reporting, and role-based access.<br /><sub>Next.js Â· TypeScript Â· MongoDB</sub></td>
+    <td valign="top"><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><strong>Velora</strong></a><br />Multi-vendor commerce with seller dashboards, order processing, and commission accounting.<br /><sub>Next.js Â· Express Â· MongoDB</sub></td>
+    <td valign="top"><a href="https://github.com/Stuart-Vision/MOTIONA"><strong>MOTIONA</strong></a><br />Responsive art discovery interface with scroll animation and reusable motion components.<br /><sub>Next.js Â· TypeScript Â· Framer Motion</sub></td>
   </tr>
 </table>
 
 ## More projects
 
-| Project | Focus | Technologies |
-| --- | --- | --- |
-| [EduManage](https://github.com/Stuart-Vision/eduman) | Authentication and role-based dashboards for a student management application | Laravel, PHP, MySQL |
-| [Gyra Real Estate](https://github.com/Stuart-Vision/Gyra-Real-Estate) | Property marketplace for buyers and agents | Next.js, TypeScript, MongoDB |
-| [Liza's Ribbon](https://github.com/Stuart-Vision/lizaG) | Personalised gifting and product customisation | Next.js, React, MongoDB |
+| Project | What it demonstrates |
+| --- | --- |
+| [EduManage](https://github.com/Stuart-Vision/eduman) | Laravel authentication, permissions, and role-based dashboards |
+| [Gyra Real Estate](https://github.com/Stuart-Vision/Gyra-Real-Estate) | Property discovery, agent workflows, inquiries, and listing management |
+| [Liza's Ribbon](https://github.com/Stuart-Vision/lizaG) | Product personalisation, custom orders, checkout, and order tracking |
 
-Currently improving project documentation, demo walkthroughs, and reproducible setup instructions.
+## Engineering approach
 
-## Engineering notes
+- Model business rules explicitly, including permissions, pricing, inventory, and state transitions.
+- Keep setup reproducible with documented environments, seed data, and verification commands.
+- Treat responsive behavior, accessibility, and operational limits as part of the implementation.
 
-- [Velora: order snapshots, commission accounting, and inventory updates](https://github.com/Stuart-Vision/Multivendor-ecommerce#design-decisions)
-- [MOTIONA: reusable animation components and reduced motion](https://github.com/Stuart-Vision/MOTIONA#animation-architecture)
+Currently improving project documentation, demo walkthroughs, and automated checks.
 
-[LinkedIn](https://www.linkedin.com/in/shanthosh-sai/) · [Browse my repositories](https://github.com/Stuart-Vision?tab=repositories)
+**Technical notes:** [Velora design decisions](https://github.com/Stuart-Vision/Multivendor-ecommerce#design-decisions) Â· [MOTIONA animation architecture](https://github.com/Stuart-Vision/MOTIONA#animation-architecture) Â· [DineFlow roadmap](https://github.com/Stuart-Vision/dineflow-pos/blob/main/docs/ROADMAP.md)
+
