@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Stuart â€” Software Engineer building full-stack web applications" width="100%" />
+  <img src="assets/profile-header.svg" alt="Stuart - Software Engineer building full-stack web applications" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shanthosh-sai/">LinkedIn</a> Â·
+  <a href="https://www.linkedin.com/in/shanthosh-sai/">LinkedIn</a> &middot;
   <a href="https://github.com/Stuart-Vision?tab=repositories">All repositories</a>
 </p>
 
 I build full-stack applications for commerce, restaurant operations, and interactive digital experiences. My work focuses on clear business workflows, practical data models, and interfaces that are straightforward to use.
 
-**Core stack:** TypeScript Â· React Â· Next.js Â· Node.js Â· MongoDB Â· Laravel
+**Core stack:** TypeScript &middot; React &middot; Next.js &middot; Node.js &middot; MongoDB &middot; Laravel
 
 ## Selected work
 
@@ -20,9 +20,9 @@ I build full-stack applications for commerce, restaurant operations, and interac
     <td width="33%"><a href="https://github.com/Stuart-Vision/MOTIONA"><img src="https://raw.githubusercontent.com/Stuart-Vision/MOTIONA/main/docs/screenshots/desktop-home.png" alt="MOTIONA art discovery landing page" /></a></td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/Stuart-Vision/dineflow-pos"><strong>DineFlow POS</strong></a><br />Restaurant ordering, kitchen workflows, inventory, reporting, and role-based access.<br /><sub>Next.js Â· TypeScript Â· MongoDB</sub></td>
-    <td valign="top"><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><strong>Velora</strong></a><br />Multi-vendor commerce with seller dashboards, order processing, and commission accounting.<br /><sub>Next.js Â· Express Â· MongoDB</sub></td>
-    <td valign="top"><a href="https://github.com/Stuart-Vision/MOTIONA"><strong>MOTIONA</strong></a><br />Responsive art discovery interface with scroll animation and reusable motion components.<br /><sub>Next.js Â· TypeScript Â· Framer Motion</sub></td>
+    <td valign="top"><a href="https://github.com/Stuart-Vision/dineflow-pos"><strong>DineFlow POS</strong></a><br />Restaurant ordering, kitchen workflows, inventory, reporting, and role-based access.<br /><sub>Next.js &middot; TypeScript &middot; MongoDB</sub></td>
+    <td valign="top"><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><strong>Velora</strong></a><br />Multi-vendor commerce with seller dashboards, order processing, and commission accounting.<br /><sub>Next.js &middot; Express &middot; MongoDB</sub></td>
+    <td valign="top"><a href="https://github.com/Stuart-Vision/MOTIONA"><strong>MOTIONA</strong></a><br />Responsive art discovery interface with scroll animation and reusable motion components.<br /><sub>Next.js &middot; TypeScript &middot; Framer Motion</sub></td>
   </tr>
 </table>
 
@@ -42,5 +42,5 @@ I build full-stack applications for commerce, restaurant operations, and interac
 
 Currently improving project documentation, demo walkthroughs, and automated checks.
 
-**Technical notes:** [Velora design decisions](https://github.com/Stuart-Vision/Multivendor-ecommerce#design-decisions) Â· [MOTIONA animation architecture](https://github.com/Stuart-Vision/MOTIONA#animation-architecture) Â· [DineFlow roadmap](https://github.com/Stuart-Vision/dineflow-pos/blob/main/docs/ROADMAP.md)
+**Technical notes:** [Velora design decisions](https://github.com/Stuart-Vision/Multivendor-ecommerce#design-decisions) &middot; [MOTIONA animation architecture](https://github.com/Stuart-Vision/MOTIONA#animation-architecture) &middot; [DineFlow roadmap](https://github.com/Stuart-Vision/dineflow-pos/blob/main/docs/ROADMAP.md)
 
