@@ -21,8 +21,8 @@ I build full-stack applications for commerce, restaurant operations, and interac
     <td width="33%"><a href="https://github.com/Stuart-Vision/MOTIONA"><img src="https://raw.githubusercontent.com/Stuart-Vision/MOTIONA/main/docs/screenshots/desktop-home.png" alt="MOTIONA art discovery landing page" /></a></td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/Stuart-Vision/dineflow-pos"><strong>DineFlow POS</strong></a><br />Restaurant ordering, kitchen workflows, inventory, reporting, and role-based access.<br /><sub>Next.js &middot; TypeScript &middot; MongoDB</sub></td>
-    <td valign="top"><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><strong>Velora</strong></a><br />Multi-vendor commerce with seller dashboards, order processing, and commission accounting.<br /><sub>Next.js &middot; Express &middot; MongoDB</sub></td>
+    <td valign="top"><a href="https://github.com/Stuart-Vision/dineflow-pos"><strong>DineFlow POS</strong></a><br />Restaurant ordering, kitchen workflows, inventory, reporting, and role-based access.<br /><sub>Next.js &middot; TypeScript &middot; MongoDB</sub><br /><a href="https://dineflow-pos-three.vercel.app">Live demo</a></td>
+    <td valign="top"><a href="https://github.com/Stuart-Vision/Multivendor-ecommerce"><strong>Velora</strong></a><br />Multi-vendor commerce with seller dashboards, order processing, and commission accounting.<br /><sub>Next.js &middot; Express &middot; MongoDB</sub><br /><a href="https://velora-alpha-mauve.vercel.app">Live demo</a></td>
     <td valign="top"><a href="https://github.com/Stuart-Vision/MOTIONA"><strong>MOTIONA</strong></a><br />Responsive art discovery interface with scroll animation and reusable motion components.<br /><sub>Next.js &middot; TypeScript &middot; Framer Motion</sub></td>
   </tr>
 </table>
