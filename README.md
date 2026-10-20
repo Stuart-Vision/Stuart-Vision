@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shanthosh-sai/">LinkedIn</a> &middot;
+  <a href="https://stuart-shan.vercel.app">Portfolio</a> &middot;
+  <a href="https://www.linkedin.com/in/shanthosh-saisangar14/">LinkedIn</a> &middot;
   <a href="https://github.com/Stuart-Vision?tab=repositories">All repositories</a>
 </p>
 
