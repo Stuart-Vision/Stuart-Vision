@@ -31,7 +31,7 @@ I build full-stack applications for commerce, restaurant operations, and interac
 
 | Project | What it demonstrates |
 | --- | --- |
-| [EduManage](https://github.com/Stuart-Vision/eduman) | Laravel authentication, permissions, and role-based dashboards |
+| [EduManage](https://github.com/Stuart-Vision/eduman) ([live](https://edumanage-jade.vercel.app)) | Laravel authentication, permissions, and role-based dashboards |
 | [Gyra Real Estate](https://github.com/Stuart-Vision/Gyra-Real-Estate) | Property discovery, agent workflows, inquiries, and listing management |
 | [Liza's Ribbon](https://github.com/Stuart-Vision/lizaG) | Product personalisation, custom orders, checkout, and order tracking |
 
