@@ -31,6 +31,7 @@ I build full-stack applications for commerce, restaurant operations, and interac
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Marina Business](https://github.com/Stuart-Vision/marina-business-theme) ([live](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Stuart-Vision/marina-business-theme/main/blueprint.json)) | SEO-ready WordPress theme: schema markup, meta tags, local SEO, fast front end |
 | [EduManage](https://github.com/Stuart-Vision/eduman) ([live](https://edumanage-jade.vercel.app)) | Laravel authentication, permissions, and role-based dashboards |
 | [Gyra Real Estate](https://github.com/Stuart-Vision/Gyra-Real-Estate) | Property discovery, agent workflows, inquiries, and listing management |
 | [Liza's Ribbon](https://github.com/Stuart-Vision/lizaG) | Product personalisation, custom orders, checkout, and order tracking |
